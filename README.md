@@ -1,1 +1,2 @@
-# actividadC73
+# Biblioteca digital-c73-boilerplate
+Código boilerplate agregado
